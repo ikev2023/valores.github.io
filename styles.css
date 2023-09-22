@@ -1,0 +1,38 @@
+body 
+{
+	background-color: #46E3E6;
+}
+#titulo
+{
+	text-align: center;
+	font-size: 50px;
+}
+#intro 
+{
+	text-align: justify;
+	font-size: 25px;
+	font-family: ;
+}
+div
+{
+	text-align: center;
+}
+hr
+{
+	border: 5px solid black;
+}
+p
+{
+	text-align: justify;
+	font-size: 25px;
+	font-family: ;
+}
+h1
+{
+	font-size: 50px;
+}
+img 
+{
+    max-width: 500px;
+    height: auto;
+}
